@@ -1,4 +1,7 @@
 # Projetos-HTML-CSS
  Projetos de HTML e CSS criados a partir do Curso Em Vídeo
 <hr>
-<a href="https://pedro-korb.github.io/Projetos-HTML-CSS/site-android/" target="_blank">Site Android</a>
+<ul>
+    <li><a href="https://pedro-korb.github.io/Projetos-HTML-CSS/site-android/" target="_blank">Site Android</a></li>
+    <li><a href="https://pedro-korb.github.io/Projetos-HTML-CSS/site-cordel/" target="_blank">Site Cordel</a></li>
+</ul>
