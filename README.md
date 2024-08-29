@@ -4,4 +4,5 @@
 <ul>
     <li><a href="https://pedro-korb.github.io/Projetos-HTML-CSS/site-android/" target="_blank">Site Android</a></li>
     <li><a href="https://pedro-korb.github.io/Projetos-HTML-CSS/site-cordel/" target="_blank">Site Cordel</a></li>
+    <li><a href="https://pedro-korb.github.io/Projetos-HTML-CSS/site-social/" target="_blank">Site Social</a></li>
 </ul>
