@@ -1,0 +1,33 @@
+* {
+    font-family: a;
+    margin: 0px;
+    padding: 0px;
+}
+
+div#cell {
+    background: url(pacote-d013/imagens/frame-iphone.png);
+    position: absolute;
+    height: 625px;
+    width: 310px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+main {
+    background: url(pacote-d013/imagens/fundo-clean.jpg) no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 472px;
+    border-radius: 5px;
+}
