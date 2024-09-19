@@ -31,3 +31,22 @@ iframe#tela {
     height: 472px;
     border-radius: 5px;
 }
+
+div#sociais {
+    text-align: right;
+}
+
+div#sociais img {
+    height: 60px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+div#sociais img:hover {
+    border: 3px solid black;
+}
+
+a {
+    display: block;
+}
